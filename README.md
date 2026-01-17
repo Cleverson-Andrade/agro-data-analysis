@@ -1,17 +1,14 @@
-# Data Science Applied to Agriculture: Analysis & Auditing
+# Análise e Audição de Dados Experimentais Agrícolas
 
-Este repositório apresenta um projeto prático de Ciência de Dados voltado para o setor agrícola. 
+Este repositório contém um projeto prático de Ciência de Dados focado no setor de agronegócio, desenvolvido como parte de uma revisão técnica ativa para uma nova etapa profissional em Fevereiro de 2026.
 
-### 🚀 Contexto
-Projeto desenvolvido como parte de um plano de **revisão técnica ativa** focado em análise de dados experimentais, visando consolidar conhecimentos antes do início de um novo desafio profissional no setor de P&D (Pesquisa e Desenvolvimento) em Fevereiro.
+### 🛠️ Etapas do Projeto
+- **Padronização de Dados:** Tratamento de nomenclaturas e organização de tabelas para relatórios executivos.
+- **Data Auditing:** Identificação de anomalias estatísticas (outliers) utilizando Boxplots para garantir a integridade de experimentos de campo.
+- **Visualização de Tendências:** Estudo da evolução da produtividade global correlacionada a fatores climáticos.
 
-### 🛠️ Tecnicas e Ferramentas
-- **Linguagem:** Python
-- **Bibliotecas:** Pandas, Matplotlib, Seaborn
-- **Tratamento de Dados:** Padronização de tabelas e tratamento de duplicatas.
-- **Data Auditing:** Identificação de anomalias estatísticas (Outliers) para garantir a qualidade da informação.
-- **Visualização:** Dashboards de evolução temporal e distribuição por cultura.
+### 📂 Estrutura
+- `analise_agricola.ipynb`: Notebook documentado com a lógica de análise.
+- `yield_df.csv`: Dataset base utilizado para os testes.
 
-### 📂 Estrutura do Projeto
-- `yield_df.csv`: Dataset principal consolidado.
-- `analise_agricola.ipynb`: Notebook com todo o código comentado linha por linha.
+**Tecnologias:** Python, Pandas, Matplotlib, Seaborn.
