@@ -8,7 +8,8 @@ Este repositório contém um projeto prático de Ciência de Dados focado no set
 - **Visualização de Tendências:** Estudo da evolução da produtividade global correlacionada a fatores climáticos.
 
 ### 📂 Estrutura
-- `analise_agricola.ipynb`: Notebook documentado com a lógica de análise.
-- `yield_df.csv`: Dataset base utilizado para os testes.
+
+- [analise_agricola.ipynb](analise_agricola.ipynb): Notebook documentado com a lógica de análise.
+- [yield_df.csv](yield_df.csv): Dataset base utilizado para os testes.
 
 **Tecnologias:** Python, Pandas, Matplotlib, Seaborn.
