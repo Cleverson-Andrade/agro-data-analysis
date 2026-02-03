@@ -22,8 +22,8 @@ This repository contains a practical Data Science project focused on the agribus
 * **EDA (Exploratory Data Analysis):** Statistical profiling of crops and yield performance.
 
 ### 📂 Repository Structure
-* `analise_agricola.ipynb`: Documented Notebook with the analysis logic.
-* `yield_df.csv`: Base dataset used for testing.
+* 📄 [analise_agricola.ipynb](./analise_agricola.ipynb): Documented Notebook with the analysis logic.
+* 📊 [yield_df.csv](./yield_df.csv): Base dataset used for testing.
 
 ---
 
@@ -40,8 +40,8 @@ Este repositório contém um projeto prático de Ciência de Dados focado no set
 * **EDA (Análise Exploratória):** Perfil estatístico de culturas e performance de rendimento.
 
 ### 📂 Estrutura do Repositório
-* `analise_agricola.ipynb`: Notebook documentado com a lógica de análise.
-* `yield_df.csv`: Dataset base utilizado para os testes.
+* 📄 [analise_agricola.ipynb](./analise_agricola.ipynb): Notebook documentado com a lógica de análise.
+* 📊 [yield_df.csv](./yield_df.csv): Dataset base utilizado para os testes.
 
 ---
 👤 **Author:** Cleverson Moura Andrade
